@@ -777,21 +777,21 @@ div.selector {
   padding: 0;
 }
 .breadcrumbs {
-  width: 100%;
-  overflow: hidden;
+  width: 100% !important;
+  overflow: hidden !important
 }
 .breadcrumbs li {
-  float: left;
-  padding: 0 11px 0 19px;
-  background: url(../images/ico_arrows.png) no-repeat 0 50%;
-  color: #ea5f8a;
+  float: left !important
+  padding: 0 11px 0 19px !important
+  background: url(../images/ico_arrows.png) no-repeat 0 50% !important
+  color: #ea5f8a !important
 }
 .breadcrumbs li:first-child {
-  background-image: none;
-  padding: 0 11px 0 0;
+  background-image: none !important
+  padding: 0 11px 0 0 !important
 }
 .breadcrumbs a {
-  color: #b4aaa5;
+  color: #b4aaa5 !important
 }
 .item-product {
   border-radius: 0;
